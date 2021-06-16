@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-image: url("/img/alas_azules_var6W.jpg");
+
+}
+
+h1 {
+    font-size: 5vw;
+    padding-top: 200px;
+    text-shadow: 2px 2px 8px darkred;
+    margin-bottom: 15px;
+}
+
+p{
+    font-size: 1.4vw;
+    margin-bottom: 2vw;
+
+}
+
+.tagline {
+    font-weight: 700;
+}
+
+.boton {
+    text-decoration: none;
+    background-color: rgb(156, 1, 1);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 9px black;
+    margin-bottom: 3vw;
+
+}
+
+.boton:hover {
+    background-color: rgb(211, 9, 9);
+}
+
+.lista ul{
+    list-style: none;
+    padding-left: 0;
+    text-align: left;
+    /* margin-top: 10vw; */
+    /* position: absolute; */
+
+
+
+}
+
+
+.lista ul li {
+    /* display: inline; */
+    font-size: 3vw;
+    padding-top: 20px;
+    /* margin-top: 20vw; */
+    
+}
+
+ul li a{
+
+    margin: 10px;
+    color:rgb(156, 1, 1);
+    text-shadow: 2px 2px 5px black;
+    
+}
